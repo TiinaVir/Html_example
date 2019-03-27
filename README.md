@@ -1,12 +1,10 @@
 # Html_example
+*koodipähkinä
 
-# robot-uprising
-Robot Uprising Helsinki 2018 team repository
+https://github.com/TiinaVir/Html_example/blob/master/koodipahkina.PNG
 
-![Robot](https:.jpg)
-
-## Team 
-* Tiina Virtanen
+## Tekijä 
+*Tiina Virtanen
 
 
 ***
