@@ -1,7 +1,7 @@
 # Html_example
 *koodipähkinä
 
-https://github.com/TiinaVir/Html_example/blob/master/koodipahkina.PNG
+![kuva](https://github.com/TiinaVir/Html_example/blob/master/koodipahkina.PNG)
 
 ## Tekijä 
 *Tiina Virtanen
