@@ -1,12 +1,17 @@
 
 body {
+    padding: 20px;
     text-align: center;
-    font-family: "Lucida Sans", sans-serif;
+    font-family: 'Satisfy', cursive;
     background-color: rgba(255, 0, 0, 0.3); 
 
 }
 h1 {
     color: #ffffff;
+}
+.teksti {
+    color: #ffffff;
+    font-size: 20px
 }
 
 img {
